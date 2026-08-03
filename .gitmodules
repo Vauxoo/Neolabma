@@ -10,3 +10,7 @@
 	path = l10n-mx-edi-payment-policy
 	url = git@git.vauxoo.com:mexico/l10n-mx-edi-payment-policy.git
 	branch = 18.0
+[submodule "l10n-mx-avoid-reversal-entry"]
+	path = l10n-mx-avoid-reversal-entry
+	url = git@git.vauxoo.com:mexico/l10n-mx-avoid-reversal-entry.git
+	branch = 18.0
